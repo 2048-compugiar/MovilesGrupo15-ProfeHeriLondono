@@ -27,16 +27,16 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="102dp"
-        tools:layout_editor_absoluteY="110dp" />
+        android:text="Boton_prueba_LAGA"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="182dp" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="269dp"
-        tools:layout_editor_absoluteY="97dp" />
+        tools:layout_editor_absoluteX="158dp"
+        tools:layout_editor_absoluteY="106dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
